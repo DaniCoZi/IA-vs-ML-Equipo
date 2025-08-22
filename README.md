@@ -8,3 +8,20 @@ Predicción de ventas en empresas (con base en datos históricos).
 Ejemplos:
 - Diagnóstico médico a partir de imágenes ya clasificadas.
 - Reconocimiento de correos spam vs. no spam.
+
+## Tipo: Aprendizaje No Supervisado
+Definición: El modelo recibe datos sin etiquetas y busca patrones o relaciones ocultas en ellos.
+Segmentación de clientes en marketing según su comportamiento de compra.
+
+Ejemplos:
+- Agrupamiento de documentos o noticias por tema.
+- Detección de fraudes analizando transacciones inusuales.
+  
+## Tipo: Aprendizaje por Refuerzo
+Definición: El modelo aprende mediante ensayo y error, tomando decisiones y recibiendo recompensas o castigos en función de sus acciones.
+
+Ejemplos:
+- Robots autónomos que aprenden a desplazarse en entornos desconocidos.
+- Sistemas de recomendación que se adaptan a las preferencias del usuario.
+- Videojuegos donde una IA aprende a jugar y optimizar su estrategia.
+
