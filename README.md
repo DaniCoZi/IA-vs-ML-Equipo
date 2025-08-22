@@ -11,7 +11,7 @@ Facultad de Ingeniería – Curso 596009: *Machine Learning*
 ---
 
 ## 📄 Documento final
-- [Informe en PDF](code/Diferencias_entre_Machine_Learning_e_Inteligencia_Artificial.pdf)
+- [Informe en PDF](code/IA_vs_ML_Informe_completo.pdf)
 
 ---
 
