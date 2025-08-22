@@ -1,0 +1,5 @@
+La Inteligencia Artificial (IA) es un área de la informática que se centra en el diseño de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, 
+como el razonamiento, la toma de decisiones, el reconocimiento de patrones o el procesamiento del lenguaje natural (Russell & Norvig, 2021). Su propósito general es dotar a 
+las máquinas de una cierta “autonomía” para resolver problemas en contextos diversos, desde asistentes virtuales hasta sistemas de diagnóstico médico.
+
+Dentro de este campo amplio se encuentra el Machine Learning (ML) o aprendizaje automático. El ML es una subdisciplina de la IA que se enfoca en el desarrollo de algoritmos y modelos que permiten que las computadoras aprendan de los datos y mejoren su desempeño sin ser programadas explícitamente para cada tarea (Mitchell, 1997). A través de esta disciplina, los sistemas identifican patrones, realizan predicciones y se adaptan progresivamente a medida que reciben nueva información (Jordan & Mitchell, 2015).
