@@ -10,11 +10,6 @@ Facultad de Ingeniería – Curso 596009: *Machine Learning*
 
 ---
 
-## 📄 Documento final
-- [Informe en PDF](code/IA_vs_ML_Informe_completo.pdf)
-
----
-
 ## 📂 Secciones del trabajo
 - **A – Definición de IA y ML** → Rama `A-definicion` 
 - **B – Diferencias IA vs ML** → Rama `B-diferencias` 
