@@ -31,3 +31,4 @@ Facultad de Ingeniería – Curso 596009: *Machine Learning*
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press.
 - Jordan, M. I., & Mitchell, T. M. (2015). Machine learning: Trends, perspectives, and prospects. Science, 349(6245), 255–260. https://doi.org/10.1126/science.aaa8415
 - Marr, B. (2018). Artificial intelligence in practice: How 50 successful companies used AI and machine learning to solve problems. Wiley.
+
